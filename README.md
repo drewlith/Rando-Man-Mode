@@ -10,3 +10,5 @@ If Rando Man Mode gets popular, I will update the app to have more features and 
 Support the developer! I play Rando Man Mode on stream so please follow!
 Twitch: https://twitch.tv/drewlith
 Twitter: https://twitter.com/drewlith
+
+Donate: https://www.paypal.com/donate/?hosted_button_id=S2Z2ZUVXKUEW2
