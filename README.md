@@ -10,5 +10,3 @@ Download: [Rando-Man Mode.zip](https://github.com/drewlith/Rando-Man-Mode/files/
 If Rando Man Mode gets popular, I will update the app to have more features and quality of life!
 
 Hope you enjoy and let me know if you'd like to see any new features or find any bugs! I am @drewlith on social media drewlith#0001 on Discord.
-
-Support the developer!
